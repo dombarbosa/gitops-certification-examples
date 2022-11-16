@@ -1,2 +1,3 @@
-# gitops-certification-examples
-utilizado para o curso da codefresh
+# Examples app to Certification GitOps
+
+Use template project apps CodeFresh
